@@ -1,0 +1,56 @@
+[
+  {
+    "year": 1969,
+    "achievement": "Establishment of Christ College",
+    "description": "Founded by Carmelites of Mary Immaculate (CMI) in Bangalore, affiliated to Bangalore University.",
+    "link": "#"
+  },
+  {
+    "year": 1998,
+    "achievement": "Autonomous Status Granted",
+    "description": "UGC granted autonomous status, allowing Christ College to design its own curriculum.",
+    "link": "#"
+  },
+  {
+    "year": 2004,
+    "achievement": "NAAC Accreditation (A+)",
+    "description": "Received A+ grade from NAAC, marking its excellence in education.",
+    "link": "#"
+  },
+  {
+    "year": 2008,
+    "achievement": "Declared as Deemed-to-be University",
+    "description": "Christ College became Christ University under Section 3 of the UGC Act.",
+    "link": "#"
+  },
+  {
+    "year": 2014,
+    "achievement": "Expansion: Kengeri Campus",
+    "description": "New campus developed for Engineering, Management, and Sciences.",
+    "link": "#"
+  },
+  {
+    "year": 2019,
+    "achievement": "Golden Jubilee (50 Years)",
+    "description": "Celebrated 50 years of academic excellence and service to the nation.",
+    "link": "#"
+  },
+  {
+    "year": 2022,
+    "achievement": "New Campuses: Yeshwanthpur & Bannerghatta",
+    "description": "Launched two additional campuses to expand reach and offer more programs.",
+    "link": "#"
+  },
+  {
+    "year": 2023,
+    "achievement": "National Ranking Milestone",
+    "description": "Ranked among the top private universities in India by NIRF.",
+    "link": "#"
+  },
+  {
+    "year": 2025,
+    "achievement": "Digital Transformation Initiatives",
+    "description": "University embraces hybrid learning, AI integration, and sustainability efforts.",
+    "link": "#"
+  }
+]
